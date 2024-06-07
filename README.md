@@ -34,8 +34,8 @@ To run this app, you need to have Python installed. You can install the required
 <ol>
   <li>Clone this repository:</li>
 </ol>
-<pre><code>git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+<pre><code>git clone https://github.com/mehulnaik16/restaurent-review-2.0.git
+cd restaurent-review-2.0
 </code></pre>
 
 <ol start="2">
@@ -44,20 +44,8 @@ cd your-repo-name
 <pre><code>pip install -r requirements.txt</code></pre>
 
 <ol start="3">
-  <li>Download the necessary NLTK data:</li>
-</ol>
-<pre><code>import nltk
-nltk.download('stopwords')
-</code></pre>
-
-<ol start="4">
   <li>Run the Streamlit app:</li>
 </ol>
 <pre><code>streamlit run app.py</code></pre>
 
-<h2>Files</h2>
-<ul>
-  <li><code>app.py</code>: The main file containing the Streamlit app code.</li>
-  <li><code>requirements.txt</code>: A file listing all the dependencies.</li>
-  <li><code>README.md</code>: This file.</li>
-</ul>
+
